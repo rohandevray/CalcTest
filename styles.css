@@ -1,0 +1,43 @@
+
+body{
+  background-color:#EADCA6;
+}
+.new{
+  background-color:#EADCA6;
+}
+.calc{
+  padding: 7% 15% 5% 15%;
+  margin: 0px;
+background-color:#EADCA6;
+text-align: center;
+}
+.inp{
+  padding:0 15% 15% 15%;
+  margin-top: 0px;
+background-color:#EADCA6;
+text-align: center;
+}
+.op{
+  margin-top: 20px;
+}
+h1{
+  font-family: 'Roboto', sans-serif;
+   line-height: 1.5;
+   font-size: 3.5rem;
+}
+h2{
+  font-family: 'Roboto', sans-serif;
+   line-height: 1.5;
+   font-size: 3rem;
+}
+.yes{
+  font-family: 'Merriweather Sans', sans-serif;
+}
+.icon:hover{
+  color:#ff4c68;
+}
+#myP{
+  font-family: 'Henny Penny', cursive;
+  line-height: 1.5;
+  font-size: 3.5rem;
+}
